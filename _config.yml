@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: Raphael Romand-Ferroni's homepage
-description: My personal website
+title: "Raphaël Romand-Ferroni"
+description: "Data Scientist"
+theme: jekyll-theme-cayman
+
+# Navigation
+header_pages:
+  - about.md
+  - experience.md
+  - projects.md
+  - contact.md
+
+sass:
+  style: compressed
