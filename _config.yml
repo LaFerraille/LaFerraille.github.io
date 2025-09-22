@@ -4,7 +4,9 @@ theme: minima
 
 # Navigation
 header_pages:
+  - index.md
   - about.md
   - experience.md
   - projects.md
   - contact.md
+  - cv.md
